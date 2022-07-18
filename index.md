@@ -10,9 +10,9 @@ I'm a master's student in the School of Information Management at Nanjing Univer
 
 ### My CV
 
-Click [this] (CV.docx)
+Click [this](CV.docx)
 
 ### External links
 
-- [Google scholar] (https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)
-- [Zhihu] (https://www.zhihu.com/people/zhao-zhen-yue-37)
+- [Google scholar](https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)
+- [Zhihu](https://www.zhihu.com/people/zhao-zhen-yue-37)

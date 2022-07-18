@@ -3,3 +3,5 @@ theme: jekyll-theme-minimal
 title: [HELLO你好SALUT]
 
 logo: IMG_6057.jpeg
+
+<header> <a href="{{ site.github.url }}"> <h1>{{ site.title | default: www.baidu.com }} </h1> </a>

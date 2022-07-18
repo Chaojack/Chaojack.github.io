@@ -10,7 +10,7 @@ I'm a master's student in the School of Information Management at Nanjing Univer
 
 ### My CV
 
-Click [this](CV.docx)
+Click [this](CV_Zhao.pdf)
 
 ### External links
 

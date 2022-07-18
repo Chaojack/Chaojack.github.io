@@ -4,10 +4,6 @@ title: [HELLO你好SALU]
 
 logo: IMG_6057.jpeg
 
-github.is_user_page: false
-
-github.owner_url: false
-
-is_user_page: false
-
-owner_url: false
+github:
+  repository_url: false
+  owner_url: false

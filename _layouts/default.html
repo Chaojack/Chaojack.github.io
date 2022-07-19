@@ -21,11 +21,15 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>        
+        <p>{{ site.description | default: site.github.project_tagline }}</p>     
+        
+        
+        something else
+        
       </header>
       <section>
 
-      this is content
+      {{ content }}
 
       </section>
       <footer>

@@ -21,12 +21,11 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p>{{ site.description | Student, son, citizen, fallen angel. }}</p>     
-        
-        <p> Student, son, citizen, fallen angel. </p>
+        <p>{{ site.description_a | default: site.github.project_tagline }}</p>
+                
         <img src="/assets/body.jpeg" alt="Logo" />
-        
-        
+   
+        <p>{{ site.description_b | default: site.github.project_tagline }}</p>
         
         
       </header>

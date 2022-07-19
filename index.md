@@ -9,7 +9,8 @@ I'm a master's student in the School of Information Management at Nanjing Univer
 ### Some files
 
 [My CV](/assets/CV_Zhao.pdf) \
-[A Self-evaluation of My Research Outputs by July 2022](/assets/evl.pdf)
+[A Self-evaluation of My Research Outputs by July 2022](/assets/evl.pdf) \
+[Research data for "A Self-evaluation"](/assets/data.zip)
 
 ### External links
 

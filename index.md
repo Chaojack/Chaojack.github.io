@@ -7,7 +7,7 @@ Feel free to click around!
 I'm a master's student in the School of Information Management at Nanjing University. I had a great time doing research, and now I'm looking for some opportunities to study as a PhD student after graduating in 2023. I'm also a big boxing fan but a terrible boxer. I fought three bouts yet won only one of them. \
 If you're interested, here is my [CV](/assets/CV.pdf).
 
-## Files that may be useful for you and me
+## Files that may be useful to you and me
 [A Self-evaluation of My Research Outputs by July 2022](/assets/evl.pdf) \
 [Research data for "A Self-evaluation"](/assets/data.zip)
 

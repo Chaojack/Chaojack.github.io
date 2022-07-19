@@ -11,7 +11,7 @@ I'm a master's student in the School of Information Management at Nanjing Univer
 [Here](/assets/CV_Zhao.pdf).
 
 ### Some useful files
-[A Self-evaluation of My Research Outputs by July 2022](/assets/A Self-evaluation of My Research Outputs by July 2022.pdf)
+[A Self-evaluation of My Research Outputs by July 2022](/evl.pdf)
 
 ### External links
 

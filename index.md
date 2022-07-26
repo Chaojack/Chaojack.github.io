@@ -13,4 +13,4 @@ If you're interested, here is my [CV](/assets/CV.pdf).
 
 ## Links to my homepages on other platforms
 - [Google scholar](https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)
-- [Zhihu](https://www.zhihu.com/people/zhao-zhen-yue-37/posts)
+- [知乎（Zhihu)](https://www.zhihu.com/people/zhao-zhen-yue-37/posts)

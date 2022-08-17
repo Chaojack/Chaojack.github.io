@@ -8,7 +8,7 @@ I'm a master's student in the School of Information Management at Nanjing Univer
 If you're interested, here is my [CV](/assets/CV.pdf).
 
 ## Files that may be useful to you and me
-[A Self-evaluation of My Research Outputs by 1 August 2022](/assets/evl.pdf) (Data Available [Here](/assets/data.zip))
+[A Self-evaluation of My Research Outputs by 1 August 2022](/assets/evl.pdf) (data available [here](/assets/data.zip))
 
 ## Links to my homepages on other platforms
 - [Google scholar](https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)

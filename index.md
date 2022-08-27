@@ -11,5 +11,5 @@ If you're interested, here is my [CV](/assets/CV.pdf).
 [A Self-evaluation of My Research Outputs by 1 August 2022](/assets/evl.pdf) (data available [here](/assets/data.zip))
 
 ## Links to my homepages on other platforms
-- [Google scholar](https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)
+- [Google Scholar](https://scholar.google.com/citations?user=9jOy3v4AAAAJ&hl=en)
 - [知乎（Zhihu)](https://www.zhihu.com/people/zhao-zhen-yue-37/posts)
